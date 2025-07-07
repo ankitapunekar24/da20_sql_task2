@@ -1,0 +1,55 @@
+"bookid","title","author","genre","publishedyear","availablecopies"
+118,"The Da Vinci Code","Dan Brown","Thriller",2020,6
+2,"1984","George Orwell","Dystopian",1949,3
+3,"The Great Gatsby","F. Scott Fitzgerald","Classic",1925,4
+130,"Where the Crawdads Sing","Delia Owens","Mystery",2020,7
+5,"Pride and Prejudice","Jane Austen","Romance",1813,6
+6,"The Hobbit","J.R.R. Tolkien","Fantasy",1937,7
+7,"The Alchemist","Paulo Coelho","Adventure",1988,5
+8,"Sapiens","Yuval Noah Harari","Non-fiction",2011,3
+9,"The Book Thief","Markus Zusak","Historical Fiction",2005,4
+10,"Atomic Habits","James Clear","Self-help",2018,8
+101,"To Kill a Mockingbird","Harper Lee","Fiction",1960,5
+102,"1984","George Orwell","Dystopian",1949,3
+103,"The Great Gatsby","F. Scott Fitzgerald","Classic",1925,4
+105,"Pride and Prejudice","Jane Austen","Romance",1813,6
+106,"The Hobbit","J.R.R. Tolkien","Fantasy",1937,7
+107,"The Alchemist","Paulo Coelho","Adventure",1988,5
+108,"Sapiens","Yuval Noah Harari","Non-fiction",2011,3
+109,"The Book Thief","Markus Zusak","Historical Fiction",2005,4
+110,"Atomic Habits","James Clear","Self-help",2018,8
+111,"The Lord of the Rings","J.R.R. Tolkien","Fantasy",1954,6
+112,"Harry Potter and the Sorcerer's Stone","J.K. Rowling","Fantasy",1997,10
+113,"The Hunger Games","Suzanne Collins","Dystopian",2008,7
+114,"The Fault in Our Stars","John Green","Romance",2012,5
+115,"The Road","Cormac McCarthy","Post-apocalyptic",2006,4
+116,"A Game of Thrones","George R.R. Martin","Fantasy",1996,9
+117,"The Shining","Stephen King","Horror",1977,3
+119,"The Girl with the Dragon Tattoo","Stieg Larsson","Mystery",2005,5
+120,"Gone Girl","Gillian Flynn","Thriller",2012,4
+121,"The Kite Runner","Khaled Hosseini","Drama",2003,7
+123,"Memoirs of a Geisha","Arthur Golden","Historical Fiction",1997,5
+124,"The Secret","Rhonda Byrne","Self-help",2006,8
+125,"The Power of Habit","Charles Duhigg","Self-help",2012,7
+126,"The Subtle Art of Not Giving a F*ck","Mark Manson","Self-help",2016,9
+129,"The Midnight Library","Matt Haig","Fantasy",2020,5
+131,"The Silent Patient","Alex Michaelides","Thriller",2019,6
+132,"Circe","Madeline Miller","Fantasy",2018,4
+133,"The Song of Achilles","Madeline Miller","Historical Fiction",2011,5
+134,"Dune","Frank Herbert","Science Fiction",1965,8
+135,"Foundation","Isaac Asimov","Science Fiction",1951,7
+136,"Neuromancer","William Gibson","Cyberpunk",1984,6
+127,"EducatedFutureFuture","Tara Westover","Memoir",2018,4
+128,"BecomingFutureFuture","Michelle Obama","Memoir",2018,6
+137,"Snow Crash","Neal Stephenson","Cyberpunk",1992,5
+138,"Ready Player One","Ernest Cline","Science Fiction",2011,9
+139,"The Martian","Andy Weir","Science Fiction",2014,8
+141,"The House in the Cerulean Sea","TJ Klune","Fantasy",2020,6
+143,"The Priory of the Orange Tree","Samantha Shannon","Fantasy",2019,4
+144,"A Court of Thorns and Roses","Sarah J. Maas","Fantasy",2015,7
+146,"Crescent City","Sarah J. Maas","Fantasy",2020,5
+147,"It Ends with Us","Colleen Hoover","Romance",2016,8
+148,"Verity","Colleen Hoover","Thriller",2018,7
+150,"Ugly Love","Colleen Hoover","Romance",2014,5
+145,"Throne of Glass","Sarah J. Maas","Fictional",2012,6
+140,"Project Hail Mary","Andy Weir","Science Fiction",2021,0
